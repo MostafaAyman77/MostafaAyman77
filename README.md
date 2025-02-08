@@ -14,12 +14,12 @@
 - 🏢 I'm a front-end developer
 - 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Html, and Css, or anything related to web development.
-- 👨‍💻 Check out my linkedin portfolio at https://www.linkedin.com/in/mostafa-elalfy-586b85243/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my linkedin portfolio at https://www.linkedin.com/in/mostafa-ayman77/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
 
-<a href="linkedin.com/in/mostafa-ayman-1a31b7337/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mostafa-ayman77/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/mostafaayman.elalfy" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Ayman-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
